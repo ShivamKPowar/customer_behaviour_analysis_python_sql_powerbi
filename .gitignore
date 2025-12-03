@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.csv/
+Screen Shots/
+__pycache__/
+logs/
