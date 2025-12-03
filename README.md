@@ -139,6 +139,7 @@ profitability.
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Shivam Powar**
+
 📧 Email: shivampowar.sp4531@gmail.com
 
 🔗LinkedIn: www.linkedin.com/in/shivam-powar-45s31
