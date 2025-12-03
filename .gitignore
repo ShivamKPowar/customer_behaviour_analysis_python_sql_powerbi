@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
-*.csv/
+customer_shopping_behavior.csv/
 Screen Shots/
 __pycache__/
 logs/
